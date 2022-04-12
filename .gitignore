@@ -1,0 +1,8 @@
+.DS_Store
+*.DS_Store
+.log
+*.~undo-tree~
+.vscode
+.idea
+.atom
+_blank
